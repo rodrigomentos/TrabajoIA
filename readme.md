@@ -7,6 +7,6 @@ Graficas:
 3. Sumatoria porcentual de infectados del Departamento de Ayacucho y Huancavelica.
 
 Link del video:
-https://youtu.be/cmYqG3Qymfk
+https://youtu.be/ZIbWajI-Dws
 Profe disculpe me pase de los minutos acordados. Espero no se ha un incoveniente pero es lo que ameritaban mis graficos.
 
