@@ -5,3 +5,8 @@ Graficas:
 1. Cantidad total infectados por tipo de prueba del Departamento de Ayacucho y Huancavelica.
 2. Cantidad total infectados por genero del Departamento de Ayacucho y Huancavelica.
 3. Sumatoria porcentual de infectados del Departamento de Ayacucho y Huancavelica.
+
+Link del video:
+https://youtu.be/cmYqG3Qymfk
+Profe disculpe me pase de los minutos acordados. Espero no se ha un incoveniente pero es lo que ameritaban mis graficos.
+
