@@ -1,0 +1,79 @@
+﻿;Datos de Ayacucho;;;;
+;% METODODX;Etiquetas de columna;;;
+;Etiquetas de fila;PCR;PR;Total general;
+;abr;38;103;141;
+;may;230;401;631;
+;jun;52;170;222;
+;Total general;320;674;994;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;Datos de Huancavelica;;;;
+;Cuenta de METODODX;Etiquetas de columna;;;
+;Etiquetas de fila;PCR;PR;Total general;
+;abr;15;109;124;
+;may;24;309;333;
+;jun;6;108;114;
+;Total general;45;526;571;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+Datos de Ayacucho;;;;;
+Cuenta de SEXO;Etiquetas de columna;;;;
+Etiquetas de fila;FEMENINO;MASCULINO;Total general;;
+abr;66;75;141;;
+may;281;350;631;;
+jun;120;102;222;;
+Total general;467;527;994;;
+;;;;;
+;;;;;
+;;;;;
+Datos de Huancavelica;;;;;
+Cuenta de SEXO;Etiquetas de columna;;;;
+Etiquetas de fila;FEMENINO;MASCULINO;(en blanco);Total general;
+abr;54;68;;122;
+may;151;182;;333;
+jun;53;61;;114;
+Total general;258;311;;569;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+Datos de Ayacucho;;;;;
+Etiquetas de fila;Cuenta de METODODX2;;;;
+abr;141;;;;
+may;631;;;;
+jun;222;;;;
+Total general;994;;;;
+;;;;;
+Mes;Total;f(x);F(x );L.Inf;L.Sup
+Abril;141;0.14;0.14;-;0.14
+Mayo;631;0.63;0.78;0.63;0.78
+Junio;222;0.22;1.00;0.22;1.00
+;994;1.00;;;
+;;;;;
+Datos de Huancavelica;;;;;
+Etiquetas de fila;Cuenta de METODODX;;;;
+abr;124;;;;
+may;333;;;;
+jun;114;;;;
+Total general;571;;;;
+;;;;;
+;;;;;
+Mes;Total;f(x);F(x );L.Inf;L.Sup
+Abril;124;0.22;0.22;-;0.22
+Mayo;333;0.58;0.80;0.58;0.80
+Junio;114;0.20;1.00;0.20;1.00
+;571;1.00;;;
